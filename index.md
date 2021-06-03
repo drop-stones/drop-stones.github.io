@@ -1,3 +1,7 @@
-# drop-stones GitHub Pages
+# drop-stones.github.io
 
-This pages will be used for sharing slides, writing notes, etc.
+drop-stones's GitHub Pages.
+
+## Contents
+
+- [slides](https://drop-stones.github.io/slides): Slides for seminar
